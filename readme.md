@@ -135,7 +135,7 @@ After training, you can use the model to make predictions on new data:
 ```
 
 6 **Cluster Results:**
-Finally, you can perform k-means clustering on the prediction results:
+Finally, you can perform k-means clustering on the prediction results.
 
 ```
 ###The input here uses the probability value of antigenic similarity between two strains when the model predicts it.
@@ -152,3 +152,4 @@ python3 UMAP-and-kmeans.py
 
 
 For any questions regarding the code or data, please contact [Wenping Xie] at [wenpingxie2020@163.com].
+
