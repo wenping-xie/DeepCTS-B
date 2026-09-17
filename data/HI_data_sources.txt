@@ -1,0 +1,207 @@
+HI DATA AND RELATED PUBLIC REPORT SOURCES
+========================================
+
+Purpose and scope
+-----------------
+This file organizes the source institutions, access URLs, and report titles supplied by the author. It is a public-resource discovery index, not a verified list of the exact HI observations or report editions used in DeepCTS-B.
+
+The author's supplied heading for the New Zealand, ECDC, FDA, and WHO sources refers to influenza A/H3N2 and A/H1N1 HI assay data. Their inclusion here does not establish that they contributed influenza B data to this manuscript. A report may cover multiple virus types, but the relevant tables must be checked individually.
+
+Some documents contain HI results; others primarily contain surveillance summaries, vaccine recommendations, or committee materials. Inclusion in this index does not establish that every listed report contains HI titers. WHO Weekly Epidemiological Record issue ranges are not equivalent to a list of influenza HI data reports.
+
+Titles and dates below are transcribed or consistently formatted from the author-supplied list. They have not all been independently verified against the original documents. Month/year dates are not expanded to invented day-level publication dates. FDA committee dates are retained as supplied and are not asserted to be the publication or revision dates of every associated document. Historical archive URLs are preserved and may redirect or require navigation through the provider's current website.
+
+1. WORLDWIDE INFLUENZA CENTRE / NIMR HISTORICAL REPORTS
+---------------------------------------------------
+Organization as supplied: National Institute for Medical Research.
+Archive host: Worldwide Influenza Centre, The Francis Crick Institute.
+The issuing institution of each historical report should be cited as printed on that report.
+
+Access URL supplied by the author:
+https://www.crick.ac.uk/partnerships/worldwide-influenza-centre/annual-and-interim-reports
+
+Additional archive entry point:
+https://www.crick.ac.uk/research/platforms-and-facilities/worldwide-influenza-centre/annual-and-interim-reports
+
+Reports / range supplied:
+- Interim Report February 2025
+- Interim Report September 2024
+- Interim Report February 2024
+- Interim Report September 2023
+- Interim Report February 2023
+- Interim Report September 2022
+- Interim Report February 2022
+- Interim Report September 2021
+- Interim Report February 2021
+- Interim Report September 2020
+- Interim Report February 2020
+- Interim Report September 2019
+- Interim Report February 2019
+- Interim Report September 2018
+- Interim Report February 2018
+- Interim Report September 2017
+- Interim Report February 2017
+- Interim Report September 2016
+- Interim Report February 2016
+- Interim Report September 2015
+- Interim Report February 2015
+- Interim Report September 2014
+- Interim Report February 2014
+- Interim Report September 2013
+- Interim Report February 2013 to Interim Report September 1987 [range supplied; individual reports not enumerated]
+- Interim Report February 1987
+
+The February 2013 to September 1987 entry is retained as a range. No intervening edition has been invented or assumed to have been used.
+
+2. NEW ZEALAND PUBLIC HEALTH SURVEILLANCE / ESR ARCHIVE
+-----------------------------------------------------
+Organization as supplied: Public Health Surveillance from for New Zealand.
+Access:
+https://surv.esr.cri.nz/PDF_surveillance/Virology/FluVac/
+
+Documents supplied:
+- Recommendation for the influenza vaccine composition 2014
+- Recommendation for the influenza vaccine composition 2015
+- Recommendation for the influenza vaccine composition 2016
+- Recommendation for the influenza vaccine composition 2018
+- Recommendation for the influenza vaccine composition 2019
+- Recommendation for the influenza vaccine composition 2020
+- Recommendation for the influenza vaccine composition 2021
+- Recommendation for the influenza vaccine composition 2022
+- Recommendation for the influenza vaccine composition 2023
+
+3. EUROPEAN CENTRE FOR DISEASE PREVENTION AND CONTROL
+--------------------------------------------------
+Organization: European Centre for Disease Prevention and Control (ECDC).
+Access URL supplied by the author:
+http://www.ecdc.europa.eu/en/PUBLICATIONS/surveillance_reports/Pages/index.aspx
+
+Reports supplied:
+- Influenza virus characterization. Summary Europe, February 2014
+- Influenza virus characterization. Summary Europe, March 2014
+- Influenza virus characterization. Summary Europe, April 2014
+- Influenza virus characterization. Summary Europe, May 2014
+- Influenza virus characterization. Summary Europe, June 2014
+- Influenza virus characterization. Summary Europe, July 2014
+- Influenza virus characterization. Summary Europe, September 2014
+- Influenza virus characterization. Summary Europe, November 2014
+- Influenza virus characterization. Summary Europe, December 2014
+- Influenza virus characterization. Summary Europe, February 2015
+- Influenza virus characterization. Summary Europe, March 2015
+- Influenza virus characterization. Summary Europe, April 2015
+- Influenza virus characterization. Summary Europe, May 2015
+- Influenza virus characterization. Summary Europe, June 2015
+- Influenza virus characterization. Summary Europe, July 2015
+- Influenza virus characterization. Summary Europe, September 2015
+- Influenza virus characterization. Summary Europe, November 2015
+- Influenza virus characterization. Summary Europe, December 2015
+- Influenza virus characterization. Summary Europe, February 2016
+- Influenza virus characterization. Summary Europe, March 2016
+- Influenza virus characterization. Summary Europe, May 2016
+- Influenza virus characterization. Summary Europe, June 2016
+- Influenza virus characterization. Summary Europe, July 2016
+- Influenza virus characterization. Summary Europe, September 2016
+- Influenza virus characterization. Summary Europe, July 2017
+- Influenza virus characterization. Summary Europe, September 2017
+- Influenza virus characterization. Summary Europe, November 2017
+- Influenza virus characterization. Summary Europe, December 2017
+- Influenza virus characterization. Summary Europe, March 2018
+- Influenza virus characterization. Summary Europe, May 2018
+- Influenza virus characterization. Summary Europe, June 2018
+- Influenza virus characterization. Summary Europe, September 2018
+- Influenza virus characterization. Summary Europe, October 2018
+- Influenza virus characterization. Summary Europe, November 2018
+- Influenza virus characterization. Summary Europe, December 2018
+- Influenza virus characterization. Summary Europe, March 2019
+- Influenza virus characterization. Summary Europe, April 2019
+- Influenza virus characterization. Summary Europe, May 2019
+- Influenza virus characterization. Summary Europe, June 2019
+- Influenza virus characterization. Summary Europe, September 2019
+- Influenza virus characterization. Summary Europe, October 2019
+- Influenza virus characterization. Summary Europe, November 2019
+- Influenza virus characterization. Summary Europe, December 2019
+- Influenza virus characterization. Summary Europe, February 2020
+- Influenza virus characterization. Summary Europe, March 2020
+- Influenza virus characterization. Summary Europe, April 2020
+- Influenza virus characterization. Summary Europe, May 2020
+- Influenza virus characterization. Summary Europe, June 2020
+- Influenza virus characterization. Summary Europe, July 2020
+- Influenza virus characterization. Summary Europe, September 2020
+- Influenza virus characterization. Summary Europe, October 2020
+- Influenza virus characterization. Summary Europe, November 2020
+- Influenza virus characterization. Summary Europe, December 2020
+- Influenza virus characterization. Summary Europe, February 2021
+- Influenza virus characterization. Summary Europe, March 2021
+- Influenza virus characterization. Summary Europe, May 2021
+- Influenza virus characterization. Summary Europe, April 2021
+- Influenza virus characterization. Summary Europe, June 2021
+
+4. U.S. FOOD AND DRUG ADMINISTRATION
+----------------------------------
+Organization: U.S. Food and Drug Administration (FDA).
+Committee: Vaccines and Related Biological Products Advisory Committee (VRBPAC).
+Access URL supplied by the author:
+http://www.fda.gov/AdvisoryCommittees/CommitteesMeetingMaterials/BloodVaccinesandOtherBiologics/VaccinesandRelatedBiologicalProductsAdvisoryCommittee/default.htm
+
+Committee documents / dates supplied:
+- Information for the Vaccines and Related Biological Products Advisory Committee. March 9, 2017
+- Information for the Vaccines and Related Biological Products Advisory Committee. October 4, 2017
+- Information for the Vaccines and Related Biological Products Advisory Committee. March 1, 2018
+- Information for the Vaccines and Related Biological Products Advisory Committee. October 3, 2018
+- Information for the Vaccines and Related Biological Products Advisory Committee. March 5, 2021
+- Information for the Vaccines and Related Biological Products Advisory Committee. September 30, 2021
+- Information for the Vaccines and Related Biological Products Advisory Committee. March 3, 2022
+- Information for the Vaccines and Related Biological Products Advisory Committee. October 6, 2022
+- Information for the Vaccines and Related Biological Products Advisory Committee. March 7, 2023
+- Information for the Vaccines and Related Biological Products Advisory Committee. October 5, 2023
+
+5. WORLD HEALTH ORGANIZATION
+---------------------------
+Organization: World Health Organization (WHO).
+Access URL supplied by the author:
+http://www.who.int/wer/en/
+
+Current WER archive entry point:
+https://www.who.int/publications/journals/weekly-epidemiological-record
+
+5.1 Weekly Epidemiological Record issue ranges supplied
+- Weekly Epidemiological Record 2016, No. 1 to No. 51-52 [issue range supplied]
+- Weekly Epidemiological Record 2017, No. 1 to No. 51-52 [issue range supplied]
+- Weekly Epidemiological Record 2018, No. 1 to No. 51-52 [issue range supplied]
+- Weekly Epidemiological Record 2019, No. 1 to No. 51-52 [issue range supplied]
+- Weekly Epidemiological Record 2020, No. 1 to No. 51-52 [issue range supplied]
+- Weekly Epidemiological Record 2021, No. 1 to No. 51-52 [issue range supplied]
+
+5.2 Influenza vaccine composition recommendation documents supplied
+- Recommended composition of influenza virus vaccines for use in the 2015-2016 northern hemisphere influenza season
+- Recommended composition of influenza virus vaccines for use in the 2016 southern hemisphere influenza season
+- Recommended composition of influenza virus vaccines for use in the 2016-2017 northern hemisphere influenza season
+- Recommended composition of influenza virus vaccines for use in the 2017 southern hemisphere influenza season
+- Recommended composition of influenza virus vaccines for use in the 2017-2018 northern hemisphere influenza season
+- Recommended composition of influenza virus vaccines for use in the 2018 southern hemisphere influenza season
+- Recommended composition of influenza virus vaccines for use in the 2018-2019 northern hemisphere influenza season
+- Recommended composition of influenza virus vaccines for use in the 2019 southern hemisphere influenza season
+- Recommended composition of influenza virus vaccines for use in the 2019-2020 northern hemisphere influenza season
+- Recommended composition of influenza virus vaccines for use in the 2020 southern hemisphere influenza season
+- Recommended composition of influenza virus vaccines for use in the 2020-2021 northern hemisphere influenza season
+- Recommended composition of influenza virus vaccines for use in the 2021 southern hemisphere influenza season
+- Recommended composition of influenza virus vaccines for use in the 2021-2022 northern hemisphere influenza season
+- Recommended composition of influenza virus vaccines for use in the 2022 southern hemisphere influenza season
+- Recommended composition of influenza virus vaccines for use in the 2022-2023 northern hemisphere influenza season
+- Recommended composition of influenza virus vaccines for use in the 2023 southern hemisphere influenza season
+- Recommended composition of influenza virus vaccines for use in the 2023-2024 northern hemisphere influenza season
+
+STUDY-SPECIFIC REPORT AND VERSION RECORDS
+---------------------------------------
+To document the exact HI sources used in the manuscript, complete data/hi/report_manifest.csv for the reports actually used. For each report, identify:
+- Exact document title and issuing institution.
+- Original PDF/document URL, not only a provider landing page.
+- Publication date and available date precision.
+- Revision date or edition, if stated; otherwise record "not stated".
+- HI table number(s), page(s), and relevant virus lineage/subtype.
+- Historical access/download date, if recoverable; otherwise record "unknown".
+- Local source filename and SHA-256 digest, when available.
+
+Do not replace missing publication/version dates with virus collection dates, the repository update date, or an assumed January 1. Do not label all resources in this index as data used for influenza B without checking the study's source records.
+
+Index coverage: 126 author-supplied report or range entries across five providers. This is not a count of 126 verified PDFs: historical and WER ranges are retained as ranges.

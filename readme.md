@@ -1,49 +1,35 @@
 # DeepCTS-B: Transformer-Based Deep Learning for Prioritizing Candidate Sites Associated with Influenza B Antigenic Cluster Transitions
 
-This repository contains the Python scripts used for the analyses in the paper "[Unraveling the Molecular Determinants of Antigenic Evolution of Influenza B Virus by Transformer-Based Deep Learning]". The project focuses on predicting the antigenic relationship of influenza viruses (BV and BY) using a deep learning model called PREDAC-TransFluB.
+This repository contains the code and accompanying data documentation for **DeepCTS-B: Transformer-Based Deep Learning for Prioritizing Candidate Sites Associated with Influenza B Antigenic Cluster Transitions**. It preserves the files and Git history of [PREDAC-TransFluB](https://github.com/wenping-xie/PREDAC-TransFluB).
+
+## Data availability
+
+- **GISAID accession identifiers:** [BV accession list](seq/BV_GISAID_accessions.txt), containing 6,389 unique EPI identifiers. This is a **partial inventory under review**: 21 of the 6,410 records in the supplied BV analysis FASTA remain unresolved. See [scope and matching evidence](seq/README.md). The BY inventory and contributor acknowledgement table remain to be supplied.
+- **HI data access:** [author-supplied report/source catalogue](data/HI_data_sources.txt), [source-access instructions](data/hi/README.md) and [source overview](data/hi/source_overview.csv). The study-specific [report version inventory](data/hi/report_manifest.csv) is pending confirmation of the actual report editions used; it currently contains column headings only.
+- **Migration and outstanding resources:** [repository provenance](docs/REPOSITORY_PROVENANCE.md). This update does not claim that trained weights, the original environment file, or analysis-specific seeds have been deposited.
 
 ## Contents
 
-The repository is organized into the following main directories:
-
-*   `/csv`: Contains the primary input datasets in CSV format for testing (e.g., `inputdata_data.csv`).
-*   `/script`: Contains all the Python scripts required to run the model training and analysis.
-*   `/result`: Contains the prediction and clustering results.
-*   `/model`: Contains the trained models for antigenic evolution.
-*   `/seq`: Contains the sequence data for testing (e.g., `sequences.fasta`).
-*   `/external`: Contains the AAIndex data (e.g., `aaindex_feature_BV.txt`).
-
-### File and Folder Descriptions
-
 ```
 .
-├── csv/
-│   ├── inputdata_data.csv     # Input data file for testing the model.
-│
+├── csv/                         # Original input data files
+├── external/                    # Original AAIndex spreadsheets
+├── script/                      # Original analysis scripts
 ├── seq/
-│   └── sequences_test.fasta      # Sequence file for testing the model.
-│
-├── external/
-│   ├── aaindex_feature_BV.txt  # AAIndex feature data for BV antigenic evolution.
-│   └── aaindex_feature_BY.txt  # AAIndex feature data for BY antigenic evolution.
-│ 
-├── script/
-│   ├── generate_esm.py                             # Script to generate ESM embeddings for sequences.
-│   ├── matrix-generatre-ems2-7-features.py         # Script to generate the input feature matrix.
-│   ├── model_train.py                              # Main script to train the PREDAC-Transformer model.
-│   ├── model_pred.py                               # Script to make predictions using the trained model.
-│   └── kmeans_cluster.py                           # Script for clustering the predicted antigenic sites.
-│
-├── result/
-│   ├── pred/
-│   │   ├── pred.csv              # Prediction results for antigenic evolution.
-│   └── cluster/
-│       ├── cluster_results.csv   # K-means clustering results of predicted antigenic sites.
-│
-└── model/
-    ├── model_01/                 # Folder containing the trained model.
-    └── model_02/                
+│   ├── sequence.fasta           # Original example file
+│   ├── BV_GISAID_accessions.txt # Partial BV identifier inventory
+│   └── README.md                # Identifier scope and limitations
+├── data/
+│   ├── HI_data_sources.txt      # Author-supplied resource catalogue
+│   └── hi/
+│       ├── README.md            # HI source-access documentation
+│       ├── source_overview.csv  # Source archive
+│       └── report_manifest.csv # Exact report versions: pending
+└── docs/
+    └── REPOSITORY_PROVENANCE.md
 ```
+
+The usage instructions below are inherited from the original repository. This migration preserves those scripts and does not independently validate their execution environment.
 
 ---
 
@@ -107,7 +93,7 @@ To train the PREDAC-TransFluB model, run the following:
 ```python
  mkdir -p /path/5fold_train
  cd /path/5fold_train
- python3 /path/script/model_train.py 
+ python3 /path/script/model_train.py
  --shape_0 346 --shape_1 654 \
  --input_dir /path/to/csv \
  --filename input_data.csv.npy \
@@ -139,7 +125,7 @@ Finally, you can perform k-means clustering on the prediction results.
 
 ```
 ###The input here uses the probability value of antigenic similarity between two strains when the model predicts it.
-python3 UMAP-and-kmeans.py 
+python3 UMAP-and-kmeans.py
 ```
 
 ## License

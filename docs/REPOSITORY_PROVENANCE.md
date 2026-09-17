@@ -1,0 +1,23 @@
+# Repository provenance and documentation status
+
+The initial files and Git commit history were copied from `wenping-xie/PREDAC-TransFluB`, at commit `a3f7bb176a16806cfbfc2350b87fd2f63790e3c7`. The original repository is retained.
+
+The new project name is **DeepCTS-B**. Existing script and data filenames are retained to preserve the original repository contents. Legacy names inside inherited scripts have not been rewritten as part of this documentation update.
+
+Added materials:
+
+- `seq/BV_GISAID_accessions.txt`: 6,389 unique EPI accession identifiers, one per line.
+- `seq/README.md`: accession evidence, dataset scope, and unresolved records.
+- `data/HI_data_sources.txt`: all 126 author-supplied report or range entries, with scope and verification notes.
+- `data/hi/README.md`: HI source-access route and report-version documentation requirements.
+- `data/hi/source_overview.csv`: the source archive named in the manuscript.
+- `data/hi/report_manifest.csv`: an unfilled, study-specific report inventory template.
+
+Remaining author checks:
+
+- Resolve 21 BV records without an assigned accession and reconcile the inventory with the final manuscript dataset.
+- Supply the BY accession inventory and the original GISAID contributor acknowledgements.
+- Supply the exact HI reports and editions actually used.
+- Verify availability of trained weights, the original environment configuration, and analysis-specific random seeds. This migration does not claim that those resources have been deposited.
+
+No new sequence data, model weights, or HI measurements were generated in this update. All original tracked files except the project README are preserved byte-for-byte.
