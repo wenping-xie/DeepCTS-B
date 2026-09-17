@@ -35,15 +35,15 @@ The usage instructions below are inherited from the original repository. This mi
 
 ## System Requirements & Dependencies
 
-The code was developed and tested using Python 3.7.12. To run the scripts, you will need to install the following major libraries. We recommend using a virtual environment (e.g., `conda` or `venv`).
+The reported experiment environment used Python 3.7.12. The six major library versions listed in the original README are pinned in [requirements.txt](requirements.txt).
 
+Create and activate a separate Python 3.7.12 environment (for example, using `conda` or `venv`), then run from the repository root:
 
-*   `tensorflow=2.7.0`
-*   `torch=1.10.1`
-*   `scikit-learn=0.19.2`
-*   `pandas=1.3.5`
-*   `numpy=1.21.6`
-*   `keras=2.7.0`
+```bash
+python -m pip install -r requirements.txt
+```
+
+Python itself is installed separately; its version appears only as a comment in the requirements file. This file records the reported major dependencies rather than a complete environment lockfile. Installation has not been revalidated as part of this documentation update.
 
 ---
 
@@ -138,4 +138,3 @@ python3 UMAP-and-kmeans.py
 
 
 For any questions regarding the code or data, please contact [Wenping Xie] at [wenpingxie2020@163.com].
-
