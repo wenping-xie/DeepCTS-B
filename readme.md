@@ -1,4 +1,4 @@
-# PREDAC-TransFluB : Unraveling the Molecular Determinants of Antigenic Evolution of Influenza B Virus by Transformer-Based Deep Learning
+# DeepCTS-B: Transformer-Based Deep Learning for Prioritizing Candidate Sites Associated with Influenza B Antigenic Cluster Transitions
 
 This repository contains the Python scripts used for the analyses in the paper "[Unraveling the Molecular Determinants of Antigenic Evolution of Influenza B Virus by Transformer-Based Deep Learning]". The project focuses on predicting the antigenic relationship of influenza viruses (BV and BY) using a deep learning model called PREDAC-TransFluB.
 
