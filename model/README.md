@@ -1,10 +1,8 @@
 # Model weights
 
-This directory is reserved for model weight files, organized by influenza B lineage:
+The trained TensorFlow checkpoints are organized by influenza B lineage:
 
-- `BV/`: B/Victoria.
-- `BY/`: B/Yamagata.
+- `BV/model/`: B/Victoria checkpoint (`model_20`).
+- `BY/model/`: B/Yamagata checkpoint (`model_20`).
 
-**Current status:** directory placeholders only. No trained model weights are included in these directories.
-
-The `.gitkeep` files preserve the empty subdirectories in Git; they are not model files.
+Each checkpoint consists of the matching `.index` and `.data-00000-of-00001` files. Keep the two lineages separate when loading the model; their weights were trained independently.
