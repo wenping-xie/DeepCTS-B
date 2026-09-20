@@ -7,7 +7,7 @@ The new project name is **DeepCTS-B**. Existing script and data filenames are re
 Added materials:
 
 - `seq/BV_GISAID_accessions.txt`: 6,389 unique EPI accession identifiers, one per line.
-- `seq/README.md`: accession evidence, dataset scope, and unresolved records.
+- `seq/README.md`: accession evidence and dataset scope.
 - `data/HI_data_sources.txt`: all 126 author-supplied report or range entries, with scope and verification notes.
 - `data/hi/README.md`: HI source-access route and report-version documentation requirements.
 - `data/hi/source_overview.csv`: the source archive named in the manuscript.
@@ -15,7 +15,6 @@ Added materials:
 
 Remaining author checks:
 
-- Resolve 21 BV records without an assigned accession and reconcile the inventory with the final manuscript dataset.
 - Reconcile the BY accession inventory (now deposited as the 2,643-identifier prediction-input list) with the final manuscript dataset and supply the original GISAID contributor acknowledgements.
 - Supply the exact HI reports and editions actually used.
 - The BV and BY `model_20` TensorFlow checkpoints are deposited under `model/BV/model/` and `model/BY/model/`.
