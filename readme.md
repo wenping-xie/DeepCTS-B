@@ -4,10 +4,10 @@ This repository contains the code and accompanying data documentation for **Deep
 
 ## Data availability
 
-- **Model storage:** [model/](model/README.md) reserves separate `BV/` and `BY/` directories. These currently contain placeholders only; no trained weights have been uploaded.
+- **Model storage:** [model/](model/README.md) contains separate BV and BY TensorFlow `model_20` checkpoints. Each checkpoint includes the matching `.index` and `.data-00000-of-00001` files.
 - **GISAID accession identifiers:** [BV accession list](seq/BV_GISAID_accessions.txt), containing 6,389 unique EPI identifiers. This is a **partial inventory under review**: 21 of the 6,410 records in the supplied BV analysis FASTA remain unresolved. See [scope and matching evidence](seq/README.md). The BY inventory and contributor acknowledgement table remain to be supplied.
 - **HI data access:** [author-supplied report/source catalogue](data/HI_data_sources.txt), [source-access instructions](data/hi/README.md) and [source overview](data/hi/source_overview.csv). The study-specific [report version inventory](data/hi/report_manifest.csv) is pending confirmation of the actual report editions used; it currently contains column headings only.
-- **Migration and outstanding resources:** [repository provenance](docs/REPOSITORY_PROVENANCE.md). This update does not claim that trained weights, the original environment file, or analysis-specific seeds have been deposited.
+- **Reproducibility:** the training and prediction scripts use `seed=100` for the stratified train/validation split. The scripts do not currently set global Python, NumPy, or TensorFlow training seeds; see [repository provenance](docs/REPOSITORY_PROVENANCE.md) for this limitation.
 
 ## Contents
 
@@ -16,8 +16,8 @@ This repository contains the code and accompanying data documentation for **Deep
 ├── csv/                         # Original input data files
 ├── external/                    # Original AAIndex spreadsheets
 ├── model/                       # Reserved model-weight directories
-│   ├── BV/                      # B/Victoria placeholder
-│   ├── BY/                      # B/Yamagata placeholder
+│   ├── BV/model/                # B/Victoria model_20 checkpoint
+│   ├── BY/model/                # B/Yamagata model_20 checkpoint
 │   └── README.md
 ├── script/                      # Original analysis scripts
 ├── seq/

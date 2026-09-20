@@ -18,6 +18,7 @@ Remaining author checks:
 - Resolve 21 BV records without an assigned accession and reconcile the inventory with the final manuscript dataset.
 - Supply the BY accession inventory and the original GISAID contributor acknowledgements.
 - Supply the exact HI reports and editions actually used.
-- Verify availability of trained weights, the original environment configuration, and analysis-specific random seeds. This migration does not claim that those resources have been deposited.
+- The BV and BY `model_20` TensorFlow checkpoints are deposited under `model/BV/model/` and `model/BY/model/`.
+- The training and prediction scripts set `seed=100` for the stratified split (`train_test_split` and `StratifiedShuffleSplit`). They do not set global Python, NumPy, or TensorFlow random seeds; therefore this documents deterministic data partitioning, not bitwise-identical retraining.
 
 No new sequence data, model weights, or HI measurements were generated in this update. All original tracked files except the project README are preserved byte-for-byte.
