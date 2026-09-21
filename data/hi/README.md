@@ -2,16 +2,17 @@
 
 ## Source reported in the manuscript
 
-The manuscript states that influenza B haemagglutination inhibition (HI) data were obtained from the annual and interim reports of the Worldwide Influenza Centre (WIC), The Francis Crick Institute.
+The manuscript states that influenza B haemagglutination inhibition (HI) data were collected from two public sources: the annual and interim reports of the Worldwide Influenza Centre (WIC), The Francis Crick Institute, and relevant World Health Organization (WHO) reports.
 
 - [WIC annual and interim reports](https://www.crick.ac.uk/research/platforms-and-facilities/worldwide-influenza-centre/annual-and-interim-reports)
-- [WIC source overview](source_overview.csv)
+- [WHO Weekly Epidemiological Record](https://www.who.int/publications/journals/weekly-epidemiological-record)
+- [Source overview](source_overview.csv)
 
 Use the source archive to locate the original reports. A link to the archive identifies the data provider, but does not identify the exact reports or revised editions used in this study.
 
 ## Author-supplied source catalogue
 
-[HI_data_sources.txt](../HI_data_sources.txt) preserves all 126 report or range entries supplied by the author across WIC/NIMR, New Zealand surveillance, ECDC, FDA, and WHO. The list includes A/H3N2 and A/H1N1 resource groups and does not establish which entries were used for the influenza B manuscript.
+[HI_data_sources.txt](../HI_data_sources.txt) preserves the broader author-supplied discovery index. For the influenza B manuscript, only the WIC/Crick and WHO sources described above are claimed as data sources; legacy New Zealand, ECDC and FDA entries in that index are not claimed as manuscript inputs.
 
 ## Study-specific version inventory: pending
 

@@ -3,7 +3,7 @@ HI DATA AND RELATED PUBLIC REPORT SOURCES
 
 Purpose and scope
 -----------------
-This file organizes the source institutions, access URLs, and report titles supplied by the author. It is a public-resource discovery index, not a verified list of the exact HI observations or report editions used in DeepCTS-B.
+This file organizes the source institutions, access URLs, and report titles supplied by the author. For the influenza B manuscript, the reported HI data sources are limited to the Worldwide Influenza Centre at the Francis Crick Institute and the World Health Organization. The remaining entries are retained as a broader public-resource discovery index and are not claimed as manuscript inputs. This file is not a verified list of the exact HI observations or report editions used in DeepCTS-B.
 
 The author's supplied heading for the New Zealand, ECDC, FDA, and WHO sources refers to influenza A/H3N2 and A/H1N1 HI assay data. Their inclusion here does not establish that they contributed influenza B data to this manuscript. A report may cover multiple virus types, but the relevant tables must be checked individually.
 
