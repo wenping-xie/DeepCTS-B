@@ -8,7 +8,7 @@ Added materials:
 
 - `seq/BV_GISAID_accessions.txt`: 6,389 unique EPI accession identifiers, one per line.
 - `seq/README.md`: accession evidence and dataset scope.
-- `data/HI_data_sources.txt`: all 126 author-supplied report or range entries, with scope and verification notes.
+- `data/HI_data_sources.txt`: WIC/Crick and WHO report or range entries, with scope and verification notes.
 - `data/hi/README.md`: HI source-access route and report-version documentation requirements.
 - `data/hi/source_overview.csv`: the source archive named in the manuscript.
 - `data/hi/report_manifest.csv`: an unfilled, study-specific report inventory template.

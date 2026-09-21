@@ -12,7 +12,7 @@ Use the source archive to locate the original reports. A link to the archive ide
 
 ## Author-supplied source catalogue
 
-[HI_data_sources.txt](../HI_data_sources.txt) preserves the broader author-supplied discovery index. For the influenza B manuscript, only the WIC/Crick and WHO sources described above are claimed as data sources; legacy New Zealand, ECDC and FDA entries in that index are not claimed as manuscript inputs.
+[HI_data_sources.txt](../HI_data_sources.txt) lists the WIC/Crick and WHO source families described above.
 
 ## Study-specific version inventory: pending
 
