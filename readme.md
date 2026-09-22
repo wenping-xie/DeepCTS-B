@@ -85,45 +85,56 @@ esm-extract esm2_t6_8M_UR50D BV_HA1_forhi_sequences.fasta ./esm_seq --repr_layer
 After generating ESM embeddings, run the following to generate the input feature matrix:
 
 ```python
-python generate_matrix.py \
-  --aaindex_file /path/to/external/aaindex_feature_BV.txt (or aaindex_feature_BY.txt) \
-  --esm_dir /path/to/esm/embeddings \
-  --seq_dir /path/to/csv \
-  --dir /path/to/csv \
-  --thread 50
+# The inherited filename contains the original spelling: "generatre".
+# --type: training, testing, or predict.
+# --subtype: BV or BY; use the matching lineage-specific inputs.
+python matrix-generatre-ems2-7-features.py \
+  --seq_dir /path/to/sequence_data \
+  --type training \
+  --dir /path/to/output_directory \
+  --thread 50 \
+  --subtype BV
 ```
 
 4 **Train the Model:**
 To train the PREDAC-TransFluB model, run the following:
 
 ```python
- mkdir -p /path/5fold_train
- cd /path/5fold_train
- python3 /path/script/model_train.py
- --shape_0 346 --shape_1 654 \
- --input_dir /path/to/csv \
- --filename input_data.csv.npy \
- --epoch 200 \
- --number_columns 654
+mkdir -p /path/5fold_train
+cd /path/5fold_train
+# seed=100 is used internally for the stratified data partitioning.
+# shape_0, shape_1, and number_columns must match the feature matrix.
+python3 /path/script/model_train.py \
+  --shape_0 346 \
+  --shape_1 654 \
+  --input_dir /path/to/csv \
+  --filename input_data.csv.npy \
+  --epoch 200 \
+  --number_columns 654 \
+  --save_dir results
 ```
 
 5 **Make Predictions:**
 After training, you can use the model to make predictions on new data:
 
 ```python
- for i in 1 2 3 4 5
- do
- echo "fold==${i}"
- mkdir -p /path/5fold_pred_npy
- python3 /path/script/model_predict.py --shape_0 346 --shape_1 654 \
- --input_dir /path/to/csv \
- --filename inputdata_test.csv.npy  \
- --model_path /path/to/model \
- --number_columns 654 \
- --fold ${i} \
- --outdir /path/5fold_pred_npy \
- echo '####################'
- done
+for i in 1 2 3 4 5
+do
+  echo "fold==${i}"
+  mkdir -p /path/5fold_pred_npy
+  # --model_dir points to the parent directory containing fold/results/.
+  # Keep the BV and BY model directories separate.
+  python3 /path/script/model_predict.py \
+    --shape_0 346 \
+    --shape_1 654 \
+    --input_dir /path/to/csv \
+    --filename inputdata_test.csv.npy \
+    --model_dir /path/to/model \
+    --number_columns 654 \
+    --fold ${i} \
+    --outdir /path/5fold_pred_npy
+  echo '####################'
+done
 ```
 
 6 **Cluster Results:**
