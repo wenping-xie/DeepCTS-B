@@ -1,9 +1,11 @@
-HI DATA AND RELATED PUBLIC REPORT SOURCES
-========================================
+HI ASSAY DATA SOURCES FOR INFLUENZA B VIRUSES
+===========================================
 
 Purpose and scope
 -----------------
 This file lists the two public source families reported for the influenza B manuscript: the Worldwide Influenza Centre at the Francis Crick Institute and the World Health Organization. It is a source catalogue, not a verified list of the exact HI observations or report editions used in DeepCTS-B.
+
+Author-confirmed report coverage: 1987-April 2025 for both WIC/Crick and WHO. This is the overall coverage of the source collections; it does not establish that a report was published in every intervening month or that an April 2025 edition was used. The individual titles supplied below do not yet enumerate every report used across this period.
 
 Titles and dates below are transcribed or consistently formatted from the supplied source list. They have not all been independently verified against the original documents. Month/year dates are not expanded to invented day-level publication dates. Historical archive URLs are preserved and may redirect or require navigation through the provider's current website.
 
@@ -12,6 +14,7 @@ Titles and dates below are transcribed or consistently formatted from the suppli
 Organization as supplied: National Institute for Medical Research.
 Archive host: Worldwide Influenza Centre, The Francis Crick Institute.
 The issuing institution of each historical report should be cited as printed on that report.
+Report coverage confirmed by the author: 1987-April 2025.
 
 Access URL supplied by the author:
 https://www.crick.ac.uk/partnerships/worldwide-influenza-centre/annual-and-interim-reports
@@ -53,11 +56,15 @@ The February 2013 to September 1987 entry is retained as a range. No intervening
 2. WORLD HEALTH ORGANIZATION
 ---------------------------
 Organization: World Health Organization (WHO).
+Report coverage confirmed by the author: 1987-April 2025.
 Access URL supplied by the author:
 http://www.who.int/wer/en/
 
 Current WER archive entry point:
 https://www.who.int/publications/journals/weekly-epidemiological-record
+
+Influenza vaccine composition report archive:
+https://www.who.int/teams/global-influenza-programme/vaccines/who-recommendations
 
 2.1 Weekly Epidemiological Record issue ranges supplied
 - Weekly Epidemiological Record 2016, No. 1 to No. 51-52 [issue range supplied]
@@ -101,3 +108,5 @@ To document the exact HI sources used in the manuscript, complete data/hi/report
 Do not replace missing publication/version dates with virus collection dates, the repository update date, or an assumed January 1. Use this manifest only for the WIC and WHO reports actually used for the influenza B manuscript.
 
 The WIC and WHO entries above are source ranges; they are not a count of verified PDFs. Complete the manifest with one row for each report edition actually used.
+
+For WHO vaccine composition reports, the influenza season in the title is not the publication date. For WER articles, identify the specific article, volume, issue, publication date, and pages rather than treating an entire year's issue range as one report version.
