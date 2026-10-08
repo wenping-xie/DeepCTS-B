@@ -1,112 +1,145 @@
 HI ASSAY DATA SOURCES FOR INFLUENZA B VIRUSES
 ===========================================
+HI assay data of influenza B/Victoria and B/Yamagata viruses
 
-Purpose and scope
------------------
-This file lists the two public source families reported for the influenza B manuscript: the Worldwide Influenza Centre at the Francis Crick Institute and the World Health Organization. It is a source catalogue, not a verified list of the exact HI observations or report editions used in DeepCTS-B.
+Overall HI data coverage used in this study: 1986–2024.
 
-Author-confirmed report coverage: 1987-April 2025 for both WIC/Crick and WHO. This is the overall coverage of the source collections; it does not establish that a report was published in every intervening month or that an April 2025 edition was used. The individual titles supplied below do not yet enumerate every report used across this period.
+(1) Organization: World Health Organization.
+Access: http://www.who.int/wer/en/
+Detail:
+WHO HI data used in this study: 2003–2024.
+The entries below identify annual WER collections and vaccine-composition recommendations; exact study-used issues and editions remain to be matched to source records.
+Weekly Epidemiological Record 2016 No.1 ~ No.51-52
+Weekly Epidemiological Record 2017 No.1 ~ No.51-52
+Weekly Epidemiological Record 2018 No.1 ~ No.51-52
+Weekly Epidemiological Record 2019 No.1 ~ No.51-52
+Weekly Epidemiological Record 2020 No.1 ~ No.51-52
+Weekly Epidemiological Record 2021 No.1 ~ No.51-52
+Weekly Epidemiological Record 2022
+Weekly Epidemiological Record 2023
+Weekly Epidemiological Record 2024
+Recommended composition of influenza virus vaccines for use in the 2003-2004 northern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2004 southern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2004-2005 northern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2005 southern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2005-2006 northern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2006 southern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2006-2007 northern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2007 southern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2007-2008 northern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2008 southern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2008-2009 northern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2009 southern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2009-2010 northern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2010 southern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2010-2011 northern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2011 southern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2011-2012 northern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2012 southern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2012-2013 northern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2013 southern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2013-2014 northern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2014 southern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2014-2015 northern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2015 southern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2015-2016 northern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2016 southern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2016-2017 northern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2017 southern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2017-2018 northern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2018 southern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2018-2019 northern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2019 southern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2019-2020 northern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2020 southern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2020-2021 northern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2021 southern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2021-2022 northern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2022 southern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2022-2023 northern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2023 southern hemisphere influenza season
+Recommended composition of influenza virus vaccines for use in the 2023-2024 northern hemisphere influenza season
 
-Titles and dates below are transcribed or consistently formatted from the supplied source list. They have not all been independently verified against the original documents. Month/year dates are not expanded to invented day-level publication dates. Historical archive URLs are preserved and may redirect or require navigation through the provider's current website.
-
-1. WORLDWIDE INFLUENZA CENTRE / NIMR HISTORICAL REPORTS
----------------------------------------------------
-Organization as supplied: National Institute for Medical Research.
-Archive host: Worldwide Influenza Centre, The Francis Crick Institute.
-The issuing institution of each historical report should be cited as printed on that report.
-Report coverage confirmed by the author: 1987-April 2025.
-
-Access URL supplied by the author:
-https://www.crick.ac.uk/partnerships/worldwide-influenza-centre/annual-and-interim-reports
-
-Additional archive entry point:
-https://www.crick.ac.uk/research/platforms-and-facilities/worldwide-influenza-centre/annual-and-interim-reports
-
-Reports / range supplied:
-- Interim Report February 2025
-- Interim Report September 2024
-- Interim Report February 2024
-- Interim Report September 2023
-- Interim Report February 2023
-- Interim Report September 2022
-- Interim Report February 2022
-- Interim Report September 2021
-- Interim Report February 2021
-- Interim Report September 2020
-- Interim Report February 2020
-- Interim Report September 2019
-- Interim Report February 2019
-- Interim Report September 2018
-- Interim Report February 2018
-- Interim Report September 2017
-- Interim Report February 2017
-- Interim Report September 2016
-- Interim Report February 2016
-- Interim Report September 2015
-- Interim Report February 2015
-- Interim Report September 2014
-- Interim Report February 2014
-- Interim Report September 2013
-- Interim Report February 2013 to Interim Report September 1987 [range supplied; individual reports not enumerated]
-- Interim Report February 1987
-
-The February 2013 to September 1987 entry is retained as a range. No intervening edition has been invented or assumed to have been used.
-
-
-2. WORLD HEALTH ORGANIZATION
----------------------------
-Organization: World Health Organization (WHO).
-Report coverage confirmed by the author: 1987-April 2025.
-Access URL supplied by the author:
-http://www.who.int/wer/en/
-
-Current WER archive entry point:
-https://www.who.int/publications/journals/weekly-epidemiological-record
-
-Influenza vaccine composition report archive:
-https://www.who.int/teams/global-influenza-programme/vaccines/who-recommendations
-
-2.1 Weekly Epidemiological Record issue ranges supplied
-- Weekly Epidemiological Record 2016, No. 1 to No. 51-52 [issue range supplied]
-- Weekly Epidemiological Record 2017, No. 1 to No. 51-52 [issue range supplied]
-- Weekly Epidemiological Record 2018, No. 1 to No. 51-52 [issue range supplied]
-- Weekly Epidemiological Record 2019, No. 1 to No. 51-52 [issue range supplied]
-- Weekly Epidemiological Record 2020, No. 1 to No. 51-52 [issue range supplied]
-- Weekly Epidemiological Record 2021, No. 1 to No. 51-52 [issue range supplied]
-
-2.2 Influenza vaccine composition recommendation documents supplied
-- Recommended composition of influenza virus vaccines for use in the 2015-2016 northern hemisphere influenza season
-- Recommended composition of influenza virus vaccines for use in the 2016 southern hemisphere influenza season
-- Recommended composition of influenza virus vaccines for use in the 2016-2017 northern hemisphere influenza season
-- Recommended composition of influenza virus vaccines for use in the 2017 southern hemisphere influenza season
-- Recommended composition of influenza virus vaccines for use in the 2017-2018 northern hemisphere influenza season
-- Recommended composition of influenza virus vaccines for use in the 2018 southern hemisphere influenza season
-- Recommended composition of influenza virus vaccines for use in the 2018-2019 northern hemisphere influenza season
-- Recommended composition of influenza virus vaccines for use in the 2019 southern hemisphere influenza season
-- Recommended composition of influenza virus vaccines for use in the 2019-2020 northern hemisphere influenza season
-- Recommended composition of influenza virus vaccines for use in the 2020 southern hemisphere influenza season
-- Recommended composition of influenza virus vaccines for use in the 2020-2021 northern hemisphere influenza season
-- Recommended composition of influenza virus vaccines for use in the 2021 southern hemisphere influenza season
-- Recommended composition of influenza virus vaccines for use in the 2021-2022 northern hemisphere influenza season
-- Recommended composition of influenza virus vaccines for use in the 2022 southern hemisphere influenza season
-- Recommended composition of influenza virus vaccines for use in the 2022-2023 northern hemisphere influenza season
-- Recommended composition of influenza virus vaccines for use in the 2023 southern hemisphere influenza season
-- Recommended composition of influenza virus vaccines for use in the 2023-2024 northern hemisphere influenza season
+(2) Organization: Worldwide Influenza Centre, Francis Crick Institute / National Institute for Medical Research (historical reports).
+Access: https://www.crick.ac.uk/partnerships/worldwide-influenza-centre/annual-and-interim-reports
+Detail:
+WIC/Crick/NIMR HI data used in this study: 1986–2024.
+Interim Report February 2024
+Interim Report September 2023
+Interim Report February 2023
+Interim Report September 2022
+Interim Report February 2022
+Interim Report September 2021
+Interim Report February 2021
+Interim Report September 2020
+Interim Report February 2020
+Interim Report September 2019
+Interim Report February 2019
+Interim Report September 2018
+Interim Report February 2018
+Interim Report September 2017
+Interim Report February 2017
+Interim Report September 2016
+Interim Report February 2016
+Interim Report September 2015
+Interim Report February 2015
+Interim Report September 2014
+Interim Report February 2014
+Interim Report September 2013
+Interim Report February 2013
+Interim Report September 2012
+Interim Report February 2012
+Interim Report September 2011
+Interim Report February 2011
+Interim Report September 2010
+Interim Report February 2010
+Interim Report September 2009
+Interim Report February 2009
+Interim Report September 2008
+Interim Report February 2008
+Interim Report September 2007
+Interim Report February 2007
+Interim Report September 2006
+Interim Report February 2006
+Interim Report September 2005
+Interim Report February 2005
+Interim Report September 2004
+Interim Report February 2004
+Interim Report September 2003
+Interim Report February 2003
+Interim Report September 2002
+Interim Report February 2002
+Interim Report September 2001
+Interim Report February 2001
+Interim Report September 2000
+Interim Report February 2000
+Interim Report September 1999
+Interim Report February 1999
+Interim Report September 1998
+Interim Report February 1998
+Interim Report September 1997
+Interim Report February 1997
+Interim Report September 1996
+Interim Report February 1996
+Interim Report September 1995
+Interim Report February 1995
+Interim Report September 1994
+Interim Report February 1994
+Interim Report September 1993
+Interim Report February 1993
+Interim Report September 1992
+Interim Report February 1992
+Interim Report September 1991
+Interim Report February 1991
+Interim Report September 1990
+Interim Report February 1990
+Interim Report September 1989
+Interim Report February 1989
+Interim Report September 1988
+Interim Report February 1988
+Interim Report September 1987
+Interim Report February 1987
+Interim Report September 1986
+Interim Report February 1986
 
 
-STUDY-SPECIFIC REPORT AND VERSION RECORDS
----------------------------------------
-To document the exact HI sources used in the manuscript, complete data/hi/report_manifest.csv for the reports actually used. For each report, identify:
-- Exact document title and issuing institution.
-- Original PDF/document URL, not only a provider landing page.
-- Publication date and available date precision.
-- Revision date or edition, if stated; otherwise record "not stated".
-- HI table number(s), page(s), and relevant virus lineage/subtype.
-- Historical access/download date, if recoverable; otherwise record "unknown".
-- Local source filename and SHA-256 digest, when available.
-
-Do not replace missing publication/version dates with virus collection dates, the repository update date, or an assumed January 1. Use this manifest only for the WIC and WHO reports actually used for the influenza B manuscript.
-
-The WIC and WHO entries above are source ranges; they are not a count of verified PDFs. Complete the manifest with one row for each report edition actually used.
-
-For WHO vaccine composition reports, the influenza season in the title is not the publication date. For WER articles, identify the specific article, volume, issue, publication date, and pages rather than treating an entire year's issue range as one report version.
