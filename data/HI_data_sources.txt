@@ -1,7 +1,5 @@
-HI ASSAY DATA SOURCES FOR INFLUENZA B VIRUSES
+#HI assay data of influenza B/Victoria and B/Yamagata viruses
 ===========================================
-HI assay data of influenza B/Victoria and B/Yamagata viruses
-
 Overall HI data coverage used in this study: 1986–2024.
 
 (1) Organization: World Health Organization.
