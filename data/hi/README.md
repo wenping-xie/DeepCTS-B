@@ -1,34 +1,16 @@
-# HI data sources and report versions
+# HI data sources
 
-## Source reported in the manuscript
+HI data for influenza B/Victoria and B/Yamagata viruses were obtained from reports published by the Worldwide Influenza Centre (WIC), Francis Crick Institute, including historical National Institute for Medical Research (NIMR) reports, and the World Health Organization (WHO).
 
-The manuscript states that influenza B haemagglutination inhibition (HI) data were collected from two public sources: the annual and interim reports of the Worldwide Influenza Centre (WIC), The Francis Crick Institute, and relevant World Health Organization (WHO) reports.
+The study used WIC/Crick/NIMR HI data covering **1986–2024** and WHO HI data covering **2003–2024**. The overall HI data range is **1986–2024**. These ranges describe the study data and do not imply a complete annual or monthly report series for either provider. The separate GISAID sequence dataset includes viruses sampled through 2025.
 
-The author has confirmed that the report collections from **both sources cover 1987-April 2025**. This overall coverage does not identify the individual reports or their revisions and does not imply an April 2025 report edition.
-
-- [WIC annual and interim reports](https://www.crick.ac.uk/research/platforms-and-facilities/worldwide-influenza-centre/annual-and-interim-reports)
+- [WIC annual and interim reports](https://www.crick.ac.uk/partnerships/worldwide-influenza-centre/annual-and-interim-reports)
 - [WHO Weekly Epidemiological Record](https://www.who.int/publications/journals/weekly-epidemiological-record)
 - [WHO influenza vaccine composition recommendations](https://www.who.int/teams/global-influenza-programme/vaccines/who-recommendations)
 - [Source overview](source_overview.csv)
 
-Use the source archive to locate the original reports. A link to the archive identifies the data provider, but does not identify the exact reports or revised editions used in this study.
+## Report catalogue
 
-## Author-supplied source catalogue
+[HI_data_sources.txt](../HI_data_sources.txt) lists the organizations, source access routes, and report names in Organization / Access / Detail format. Reports may cover several seasonal influenza viruses; this study used their influenza B HI data.
 
-[HI_data_sources.txt](../HI_data_sources.txt) records the two organizations, archive links, author-confirmed coverage, and the individual report titles or ranges supplied so far. Historical WIC reports retain their original issuing institution where known. The catalogue is not yet an exhaustive list of the reports actually used across 1987-April 2025.
-
-## Study-specific version inventory: pending
-
-A catalogue of report titles and dates has now been supplied, but the subset actually used in this study, original PDF URLs, exact editions/revisions, and relevant tables/pages have not yet been confirmed. The historical download dates are also unknown. The archive landing page returned HTTP 403 during this audit, so its current report inventory was not inspected.
-
-[report_manifest.csv](report_manifest.csv) currently contains column headings only. No report has been asserted to be part of the study without supporting source records. Add one row for each report edition actually used, using the original report and download records as evidence:
-
-- Record the title, issuing institution, original report URL, and publication date as printed on the report.
-- Record the revision date or edition separately, when present. If no revision is identified, state `not stated` rather than inventing one.
-- Preserve date precision (`year`, `month`, or `day`). Do not invent a day for a report that states only a month or year.
-- Distinguish the historical access/download date from the report publication date. Use `unknown` when the original access date cannot be recovered.
-- Identify the tables/pages and lineage(s) used, and record the local source filename and SHA-256 digest when available.
-
-An archive year, a virus collection date, and the date of this repository update must not be substituted for a report version date. The inherited CSV files are preserved from the original repository; they do not by themselves establish the exact source reports or versions.
-
-This documentation provides the source-access route. It does not yet satisfy the reviewer's request for an exact, study-specific HI report version inventory.
+The catalogue is a source list. Individual report editions and their inclusion in the final analysis have not been fully verified against the original study records. [report_manifest.csv](report_manifest.csv) remains an unfilled detailed-inventory template.
